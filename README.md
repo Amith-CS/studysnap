@@ -5,8 +5,4 @@ ddd
 
 
 
-AWS_SECRET_ACCESS_KEY="wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
-
-
-
-password="SuperSecretPassword123!"
+GITHUB_TOKEN=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
