@@ -1,2 +1,8 @@
 # studysnap
 ddd
+
+
+
+
+
+AWS_SECRET_ACCESS_KEY="AKIAIOSFODNN7EXAMPLE"
