@@ -1,8 +1,6 @@
 # studysnap
-ddd
 
+Testing secret detection
 
-
-
-
-GITHUB_TOKEN=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
+AWS_ACCESS_KEY_ID="AKIA7F8H9J2K3L4M5N6P"
+AWS_SECRET_ACCESS_KEY="aBcDeFgHiJkLmNoPqRsTuVwXyZ1234567890ABCD"
